@@ -4,6 +4,6 @@
 
 *This is a blabbity blabbity blah project description*
 
-[x] Get
-[ ] This
-[x] Done
+- [x] Get
+- [ ] This
+- [x] Done
